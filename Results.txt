@@ -1,0 +1,63 @@
+"C:\Program Files\JetBrains\JetBrains Rider 2021.2.1\plugins\dpa\DotFiles\JetBrains.DPA.Runner.exe" --handle=3800 --backend-pid=23660 --detach-event-name=dpa.detach.3800 "C:/Users/msmis/OneDrive - Avans Hogeschool/Avans/Year3/Periode 4/AI/KillerSudoku/KillerSudoku/bin/Debug/net6.0/KillerSudoku.exe"
+Killer board with all optimizations solved in: 1818 milliseconds
+Killer board with all optimizations result:
+823596714
+459718623
+671342895
+598174362
+362985471
+714263589
+937651248
+185427936
+246839157
+
+Killer board with no cage domain recalculation solved in: 146205 milliseconds
+Killer board with no cage domain recalculation result:
+823596714
+459718623
+671342895
+598174362
+362985471
+714263589
+937651248
+185427936
+246839157
+
+
+Killer board with no cell pick heuristic for guesses:
+No result, terminated program after an hour and 10 minutes, exited with the following:
+Process finished with exit code -1,073,741,510.
+
+
+Killer board with no optimizations:
+Not attempted, will take too long because it is even less efficient than just not using heuristic for guesses.
+
+
+Normal sudokus for difference with and without heuristic for guesses:
+
+Normal sudoku by hand:
+Longer than half an hour, I've got something better to do...
+
+Normal sudoku with heuristic for guesses optimization solved in: 109 milliseconds
+Normal sudoku with heuristic for guesses optimization result:
+534762189
+712598643
+896413725
+963274518
+478951362
+251836497
+147389256
+329645871
+685127934
+
+Normal sudoku with no heuristic for guesses optimization solved in: 179 milliseconds
+Normal sudoku with no heuristic for guesses optimization result:
+534762189
+712598643
+896413725
+963274518
+478951362
+251836497
+147389256
+329645871
+685127934
